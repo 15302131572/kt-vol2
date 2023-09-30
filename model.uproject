@@ -3,5 +3,14 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
-	"Plugins": []
+	"Plugins": [
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
+		}
+	]
 }
